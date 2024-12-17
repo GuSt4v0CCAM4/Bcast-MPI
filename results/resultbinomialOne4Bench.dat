@@ -1,9 +1,15 @@
     message size      transfertime  duplex bandwidth per process and neighbor
-        16 bytes      0.25012 usec       127.939 MB/s
-       128 bytes      0.24786 usec       1032.84 MB/s
-      1024 bytes      0.26868 usec       7622.45 MB/s
-      8192 bytes      0.50104 usec         32700 MB/s
-     65536 bytes      4.72964 usec       27712.9 MB/s
-    524288 bytes      41.9337 usec       25005.5 MB/s
-   4194304 bytes      339.462 usec       24711.4 MB/s
-  33554432 bytes      5319.02 usec       12616.8 MB/s
+        16 bytes      2.47835 usec       12.9118 MB/s
+        32 bytes       1.8617 usec       34.3772 MB/s
+        64 bytes      1.89875 usec       67.4128 MB/s
+       128 bytes      1.95125 usec       131.198 MB/s
+       256 bytes      2.01635 usec       253.924 MB/s
+       512 bytes       1.9276 usec       531.231 MB/s
+      1024 bytes       2.2316 usec       917.727 MB/s
+      2048 bytes       2.4922 usec       1643.53 MB/s
+      4096 bytes      2.39805 usec       3416.11 MB/s
+      8192 bytes      3.90035 usec       4200.65 MB/s
+     16384 bytes      6.93765 usec       4723.21 MB/s
+     32768 bytes      18.4453 usec          3553 MB/s
+     65536 bytes       29.198 usec       4489.07 MB/s
+    131072 bytes      45.0633 usec       5817.23 MB/s
